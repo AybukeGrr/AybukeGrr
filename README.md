@@ -9,7 +9,8 @@
 
 -->
 
-![Aybüke gürer](https://user-images.githubusercontent.com/74709621/111342970-02799d00-868c-11eb-8b45-fc3ef7a0e7a9.png)
+
+![AYBÜKE GÜRER](https://user-images.githubusercontent.com/74709621/112144932-c8a81980-8bea-11eb-838c-37ccb6c7074d.png)
 
 
 - 🌱 Truth can only be found in one place: the code.
