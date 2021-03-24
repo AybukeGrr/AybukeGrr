@@ -10,7 +10,7 @@
 -->
 
 
-![AYBÜKE GÜRER1](https://user-images.githubusercontent.com/74709621/112273247-2d688000-8c8e-11eb-88c9-d552b66a1a92.png)
+![AYBÜKE GÜRER1](https://user-images.githubusercontent.com/74709621/112273403-5db01e80-8c8e-11eb-80c5-025dc4d949ad.png)
 
 
 - 🌱 Truth can only be found in one place: the code.
