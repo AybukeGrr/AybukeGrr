@@ -10,9 +10,6 @@
 -->
 
 
-![AYBÜKE GÜRER1](https://user-images.githubusercontent.com/74709621/112273403-5db01e80-8c8e-11eb-80c5-025dc4d949ad.png)
-
-
 - 🌱 Truth can only be found in one place: the code.
 - ⚡ Code that works does not keep bugs.
 
