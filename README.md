@@ -33,8 +33,8 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
 -->
 
 
-- 🌱 Truth can only be found in one place: the code.
-- ⚡ Code that works does not keep bugs.
+- 🌱 I’m currently working on JavaScript
+- ⚡ I’m currently learning React
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=gradient)
