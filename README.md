@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
+</div>
+
+
 <!--
 **AybukeGrr/AybukeGrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
