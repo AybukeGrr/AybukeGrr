@@ -59,5 +59,5 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AybukeGrr&theme=tokyonight&hide_border=yanl%C4%B1%C5%9F)](https://git.io/streak-stats)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeGrr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeGrr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
