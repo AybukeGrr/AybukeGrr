@@ -36,5 +36,8 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
 - 🌱 I’m currently working on JavaScript
 - ⚡ I’m currently learning React
 
+****************************************
+### :hammer_and_wrench: Languages and Tools :
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=gradient)
