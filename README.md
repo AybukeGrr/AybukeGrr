@@ -60,4 +60,7 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AybukeGrr&theme=tokyonight&hide_border=yanl%C4%B1%C5%9F)](https://git.io/streak-stats)
 [![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeGrr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeGrr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AybukeGrr&repo=github-readme-stats" />
+</a>
