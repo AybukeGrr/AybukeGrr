@@ -54,5 +54,7 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 </div>
 
+*************************************
 
+### :fire: My Stats :
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=gradient)
