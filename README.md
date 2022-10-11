@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, I'm Aybüke
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
@@ -12,6 +12,10 @@
 
 <div  align="center">
 <img src="https://komarev.com/ghpvc/?username=AybukeGrr&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
