@@ -57,4 +57,6 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
 *************************************
 
 ### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AybukeGrr&theme=tokyonight&hide_border=yanl%C4%B1%C5%9F)](https://git.io/streak-stats)
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=gradient)
