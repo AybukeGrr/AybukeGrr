@@ -47,7 +47,6 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostqreSql" **alt="PostqreSql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 </div>
 
